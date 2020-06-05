@@ -7,12 +7,12 @@ assignees: ''
 
 ---
 
-**Item Count: ** 1,000 items
+**Item Count:** 1,000 items
 
-**Item Types: ** Image/Document/Audio/Video/Generic
+**Item Types:** Image/Document/Audio/Video/Generic
 
-**Access Restrictions: **
+**Access Restrictions:**
 
-**Complex Objects: **
+**Complex Objects:**
 
-**pid List: ** (Example) /clarence-andrews/pids.txt@master
+**pid List:** (Example) https://github.com/OregonDigital/OD2-migration/blob/master/clarence-andrews/pids.txt
