@@ -15,4 +15,4 @@ assignees: ''
 
 **Complex Objects:**
 
-**pid List:** (Example) https://github.com/OregonDigital/OD2-migration/blob/master/clarence-andrews/pids.txt
+**pid List:** https://github.com/OregonDigital/OD2-migration/blob/master/collname/pidlist
